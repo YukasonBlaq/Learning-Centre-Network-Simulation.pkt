@@ -1,0 +1,1 @@
+This project presents a Cisco Packet Tracer simulation of a high-speed, low-latency network designed for a community learning centre located in an informal settlement. The goal is to provide a reliable internet connection capable of supporting modern digital learning tools such as video streaming, video conferencing, and e-learning platforms.
